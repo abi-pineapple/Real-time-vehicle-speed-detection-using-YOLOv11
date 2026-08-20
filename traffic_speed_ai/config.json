@@ -1,0 +1,14 @@
+{
+  "speed_limit": 50,
+  "confidence": 0.4,
+  "pixel_distance": 400,
+  "real_distance": 20,
+  "frame_skip": 1,
+  "model": "yolo11n.pt",
+  "vehicle_limits": {
+    "Car": 50,
+    "Motorcycle": 50,
+    "Bus": 40,
+    "Truck": 40
+  }
+}
